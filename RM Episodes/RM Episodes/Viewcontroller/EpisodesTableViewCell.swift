@@ -26,5 +26,6 @@ class EpisodesTableViewCell: UITableViewCell {
     func setupWithEpisodes(with episode: Episode?) {
         episodeTitle.text = episode?.name
         episodeId.text = episode?.episode
+        episodesAirDate?.text = episode?.air_date
     }
 }

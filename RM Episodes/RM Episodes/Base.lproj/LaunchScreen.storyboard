@@ -19,12 +19,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wwj-K0-7WV">
-                                <rect key="frame" x="11.5" y="369" width="391" height="158"/>
+                                <rect key="frame" x="46.5" y="383.5" width="321" height="129"/>
                                 <string key="text">Test
 Rick and Morty Episodes
 By:
 Keyur Sosa</string>
-                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="33"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="27"/>
                                 <color key="textColor" red="0.99635213609999995" green="0.59359312060000002" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
